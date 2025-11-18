@@ -1,0 +1,1 @@
+export { PGVectorStore } from './pgVectorStore';
